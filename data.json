@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "chess",
+        "price": 2000.00,
+        "description": "sports"
+    },
+    {
+        "id": 2,
+        "name": "spalding",
+        "price": 5000.00,
+        "description": "ball"
+    },
+    {
+        "id": 3,
+        "name": "mikasa",
+        "price": 3000.00,
+        "description": "ball"
+    },
+    {
+        "id": 4,
+        "name": "boxer",
+        "price": 5.00,
+        "description": "All Goods"
+    }
+]
